@@ -1,7 +1,6 @@
 ---
 sidebar_position: 11
-title: FAQ
-id: FAQ
+title: 🙋 FAQ
 ---
 
 # Frequently Asked Questions<!-- omit in toc -->
@@ -59,7 +58,7 @@ id: FAQ
   Depending on the size of the grant, applications require two to five committee members to approve it. Since we have many different members with different backgrounds and specializations, it is possible that the committee disagrees and your application gets rejected even though one or two members approved it.
   The application is accepted once the pull request is merged.
 
-### How do I apply if I want to keep information private or want to be paid in fiat?
+### How do I apply if I want to keep information private?
 
   For special cases that do not fit the regular grants structure, we provide [a form](https://docs.google.com/forms/d/e/1FAIpQLSfMfjiRmDQDRk-4OhNASM6BAKii7rz_B1jWtbCPkUh6N7M2ww/viewform). You can provide all application data by submitting this form, or submit the form with a reference to a pull request with data you are willing to make public.
 
@@ -75,7 +74,7 @@ id: FAQ
 
 ### Can I list the Web3 Foundation as a partner?
 
-  No. Once the grants team has accepted your first milestone, you may display our [grants badge](Support Docs/grant-badge-guidelines) in a project-specific context, such as the repository containing the grant project work.
+  No. Once the grants team has accepted your first milestone, you may display our [grants badge](Support%20Docs/grant-badge-guidelines) in a project-specific context, such as the repository containing the grant project work.
 
 ### Can you help me advertise my project?
 
